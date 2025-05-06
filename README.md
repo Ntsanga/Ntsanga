@@ -1,6 +1,7 @@
-Salut
-je suis developpeuse
-<!--
+Salut! c'est barthely Ntsanga
+Contente de vous voir ici
+Developpeur web forme dans le cadre du projet D-Clic de l'OIF
+
 **Ntsanga/Ntsanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
