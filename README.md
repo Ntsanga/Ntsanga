@@ -2,11 +2,11 @@ Salut! c'est barthely Ntsanga
 
 Contente de vous voir ici
 
-Developpeur web formé dans le cadre du projet D-Clic de l'OIF
+Developpeuse web formée dans le cadre du projet D-Clic de l'OIF
 
 
 ##🚀 A Propos de moi :
-Bienvenue dans mon monde en ligne : je suis developpeuse, determiné à faire carrière dans le developpement web et à créer des projets passionnants.
+Bienvenue dans mon monde en ligne : je suis developpeuse, determinée à faire carrière dans le developpement web et à créer des projets passionnants.
 
 Je serai ravie de discuter avec vous !
 
