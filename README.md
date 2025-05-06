@@ -1,8 +1,23 @@
 Salut! c'est barthely Ntsanga
-Contente de vous voir ici
-Developpeur web forme dans le cadre du projet D-Clic de l'OIF
 
-**Ntsanga/Ntsanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contente de vous voir ici
+
+Developpeur web formé dans le cadre du projet D-Clic de l'OIF
+
+
+##🚀 A Propos de moi :
+Bienvenue dans mon monde en ligne : je suis developpeuse, determiné à faire carrière dans le developpement web et à créer des projets passionnants.
+
+Je serai ravie de discuter avec vous !
+
+**Tech Stack :**
+-**Languages** : HTML, CSS, JavaScript,
+-**versionning** : Git & Github
+
+## Me Contacter :
+**Email** : barthelyntsanga5@gmail.com
+
+
 
 Here are some ideas to get you started:
 
